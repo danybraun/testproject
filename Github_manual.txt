@@ -1,0 +1,19 @@
+git clone "address"
+
+If you want to upload file,
+1) git add -A
+2) git commit -m "filename"
+3) git push
+
+If you want to make new branch,
+git branch "branch name"
+
+If you want to change branch,
+git checkout "branch name"
+
+To update branch,
+git pull
+
+If you don't want to upload specific types of files,
+add them to ".gitignore"
+
